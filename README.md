@@ -1,2 +1,2 @@
 # reactjs_modulo01
-ReactJS+NodeJS
+iniciando com ReactJS 
